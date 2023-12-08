@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malik
 - 👀 I’m interested in Web 3 projects
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on anything junior, completed Python courses and Solidity bootcamps
+- 🌱 I’m currently learning Solidity, with Alchemy and Cyfrin
+- 💞️ I’m looking to collaborate on anything junior, completed Python courses and paid (average quality all of them) Solidity bootcamps
 - 📫 How to reach me, malik@shortcut23.com
 
 - I love to automate trading and algorithms, flash loans and smart contracts are the focus
