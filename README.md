@@ -5,6 +5,7 @@
 - 📫 How to reach me, malik@shortcut23.com
 
 - I love to automate trading and algorithms, flash loans and smart contracts are the focus
+- Ideally would love to build a protocol aiding society at the end of the beginners learning curve
 
 <!---
 S23Web3/S23Web3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
